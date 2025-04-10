@@ -27,7 +27,7 @@
     <a href="https://bsky.app/profile/higgn.bsky.social" target="_blank"> <!-- Assuming default bluesky handle format -->
       <img src="https://img.shields.io/badge/Bluesky-026EFD?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky: higgn" />
     </a>
-    <a href="YOUR_AWS_COMMUNITY_PROFILE_URL" target="_blank"> <!-- Replace with your actual AWS Community Profile URL -->
+    <a href="https://community.aws/@gagan" target="_blank"> <!-- Replace with your actual AWS Community Profile URL -->
       <img src="https://img.shields.io/badge/AWS_Community-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Community: @gagan" />
     </a>
     <!-- Add other relevant links like a personal website if you have one -->
@@ -38,7 +38,7 @@
 
 ## 👋 About Me
 
-I’m Gagan, a tech enthusiast passionate about **AWS ☁️**, **Cloud Technologies**, and the transformative potential of **AI/ML 🤖**. I thrive on solving real-world problems with innovative solutions, leveraging my expertise in cloud services, automation, and machine learning.
+I’m Gagan, a tech enthusiast passionate about **Microsoft's Azure**, **AWS ☁️**, **Cloud Technologies**, and the transformative potential of **AI/ML 🤖**. I thrive on solving real-world problems with innovative solutions, leveraging my expertise in cloud services, automation, and machine learning.
 
 *   🏆 Achieved **#1 National Rank** (also #1 UP & Agra) in the ISEA cybersecurity awareness program by MeitY, Govt. of India.
 *   🎓 Master of Computer Applications (MCA) student at AKTU Lucknow (2023-2025).
