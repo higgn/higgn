@@ -89,8 +89,8 @@ Here are a couple of projects I'm proud of:
   <!-- Project 1: Cyber Dost -->
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: 45%; min-width: 300px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1); background-color: #f9f9f9;"> <!-- Light theme background -->
     <picture>
-       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/higgn/higgn/main/readme/project_cyberdost_dark.png"> <!-- Replace with actual dark mode image URL -->
-       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/higgn/higgn/main/readme/project_cyberdost_light.png"> <!-- Replace with actual light mode image URL -->
+       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/higgn/higgn/blob/main/Screenshot%202025-04-10%20185748.png"> <!-- Replace with actual dark mode image URL -->
+       <source media="(prefers-color-scheme: light)" srcset="https://github.com/higgn/higgn/blob/main/Screenshot%202025-04-10%20185652.png"> <!-- Replace with actual light mode image URL -->
        <img align="center" src="https://raw.githubusercontent.com/higgn/higgn/main/readme/project_cyberdost_light.png" alt="Cyber Dost Project" width="100%" style="border-radius: 4px; margin-bottom: 10px;"/> <!-- Default image -->
     </picture>
     <h4 align="center">🤖 Cyber Dost - AI Cybersecurity Telegram Bot</h4>
@@ -106,8 +106,8 @@ Here are a couple of projects I'm proud of:
   <!-- Project 2: Sunmax.live -->
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; width: 45%; min-width: 300px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1); background-color: #f9f9f9;"> <!-- Light theme background -->
      <picture>
-       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/higgn/higgn/main/readme/project_sunmax_dark.png"> <!-- Replace with actual dark mode image URL -->
-       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/higgn/higgn/main/readme/project_sunmax_light.png"> <!-- Replace with actual light mode image URL -->
+       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/higgn/higgn/blob/main/Screenshot%202025-04-10%20190102.png"> <!-- Replace with actual dark mode image URL -->
+       <source media="(prefers-color-scheme: light)" srcset="https://github.com/higgn/higgn/blob/main/Screenshot%202025-04-10%20190113.png"> <!-- Replace with actual light mode image URL -->
        <img align="center" src="https://raw.githubusercontent.com/higgn/higgn/main/readme/project_sunmax_light.png" alt="Sunmax.live Project" width="100%" style="border-radius: 4px; margin-bottom: 10px;"/> <!-- Default image -->
     </picture>
     <h4 align="center">🌐 Sunmax.live - Multimodal AI Platform</h4>
